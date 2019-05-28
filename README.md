@@ -1,2 +1,2 @@
 # Sequence-Modeling
-Modeling Sequence of items purchased by examingin contents in a shopping cart per transaction
+Modeling common sequence of items purchased by examining shopping cart content, per transaction.
